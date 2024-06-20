@@ -3,6 +3,8 @@
 
 This is an example on how to implement idempotency and distributed locking in APIs using [Fiber](https://github.com/gofiber/fiber).
 
+This project requires Go 1.20 or later versions.
+
 
 ## Run Locally
 
